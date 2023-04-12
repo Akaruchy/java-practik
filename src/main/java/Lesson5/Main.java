@@ -1,3 +1,5 @@
+package Lesson5;
+
 import java.util.HashMap;
 import java.util.Map;
 

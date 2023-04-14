@@ -1,12 +1,12 @@
-//package S;
-//
-//import java.io.File;
-//import java.io.FileReader;
-//import java.lang.reflect.Array;
-//import java.net.FileNameMap;
-//
-//public class Main3 {
-//}
+package S;
+
+import java.io.File;
+import java.io.FileReader;
+import java.lang.reflect.Array;
+import java.net.FileNameMap;
+
+public class Main3 {
+}
 //
 //
 ////    Запишите в файл следующие строки:
